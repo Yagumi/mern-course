@@ -1,6 +1,0 @@
-{
-  "port": 5000,
-  "jwtSecret": "asldfkesnlsefsdfpseojajlskdglsesej",
-  "mongoUri": "mongodb+srv://yagumi:A3619564a@cluster0.gmvlw.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
-}
